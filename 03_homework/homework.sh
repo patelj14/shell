@@ -47,3 +47,4 @@ rm -ir
 # 10. How would you verify that all directories and files have been deleted?
 //cd to parent Directory:
 ls
+
