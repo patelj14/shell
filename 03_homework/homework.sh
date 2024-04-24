@@ -43,7 +43,6 @@ cd /../../
 # 9. How would you remove each directory along with its contents?
 //cd to parent Directory:
 rm -ir
-
 # 10. How would you verify that all directories and files have been deleted?
 //cd to parent Directory:
 ls
