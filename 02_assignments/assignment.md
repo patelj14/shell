@@ -17,6 +17,7 @@ You are stuck in a virtual room and can only leave if you figure out the passwor
 **What is the secret password?**
 Paper rings season_10 meets and lucky stars
 
+
 |Criteria|Pass|Fail|
 |---|---|---|
 |Secret Password|The user properly used the proper bash commands to find the secret password.|The user did not properly used the proper bash commands to find the secret password.|
